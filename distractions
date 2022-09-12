@@ -1,4 +1,4 @@
-0.0.0.0 youtube.com
+0.0.0.0 *.youtube.com
 0.0.0.0 play.google.com
 0.0.0.0 www.youtube.com
 0.0.0.0 amazon.com
@@ -8,3 +8,5 @@
 0.0.0.0 minecraft.net
 0.0.0.0 www.youtubekids.com
 0.0.0.0 youtubekids.com
+0.0.0.0 *.googlevideo.com
+0.0.0.0 *.googleusercontent.com
