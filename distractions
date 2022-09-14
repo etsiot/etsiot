@@ -8,5 +8,4 @@
 0.0.0.0 ^.*?discord.com
 0.0.0.0 ^.*?youtubekids.com
 0.0.0.0 ^.*?googlevideo.com
-0.0.0.0 .googleusercontent.com
-0.0.0.0 r[0-9]---sn-[a-z0-9]*.googlevideo.com
+0.0.0.0 ^.*?googleusercontent.com
