@@ -1,11 +1,6 @@
-0.0.0.0 ^.*?youtube.com
+
 0.0.0.0 play.google.com
 0.0.0.0 amazon.com
 0.0.0.0 amazon.de
 0.0.0.0 amazon.co.uk
 0.0.0.0 aliexpress.com
-0.0.0.0 ^.*?minecraft.net
-0.0.0.0 ^.*?discord.com
-0.0.0.0 ^.*?youtubekids.com
-0.0.0.0 ^.*?googlevideo.com
-0.0.0.0 ^.*?googleusercontent.com
